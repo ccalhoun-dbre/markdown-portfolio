@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Favorite Nashville Establishments
+- Hattie B's
+- Pho Ann
+- Dinos
+- Monell's
+- Headquarters Coffee & Tea
